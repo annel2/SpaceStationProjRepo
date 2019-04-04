@@ -39,7 +39,7 @@
   GALLERY SECTION ANIMATION
   ------------------------------------------------*/
   
-.Photo {
+.photo {
 	position: relative;
 	line-height: 0;
 	margin-bottom: 2em;
@@ -65,7 +65,7 @@
 }
 
 .photo-overlay {
-	color: #fff
+	color: #fff;
 	position: absolute;
 	top: 0;
 	right: 0;
